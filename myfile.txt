@@ -1,0 +1,260 @@
+ 11.0.0.0/15
+	MXP62 		Allocated 	DSN Site Subnet allocated for MXP62-62
+11.2.0.0/15
+	SFO21 	container 	Allocated 	Address space for SFO21 (MoveSubnet by clc@ANT.AMAZON.COM on 2017/01/12 15:11:16)
+11.4.0.0/15
+	SFO Cluster 		Allocated 	DSN Site Subnet allocated for SFO8-8 (CreateSubnet by 10.0.150.6 on 2017/03/12 05:40:40)
+11.6.0.0/15
+	SFO Cluster 		Allocated 	DSN Site Subnet allocated for SFO9-11 (CreateSubnet by 10.0.150.6 on 2017/03/12 05:40:42)
+11.8.0.0/15
+	SFO Cluster 		Allocated 	DSN Site Subnet allocated for SFO9-9 (CreateSubnet by 10.0.150.6 on 2017/03/12 05:40:43)
+11.10.0.0/15
+	SFO Cluster 		Allocated 	DSN Site Subnet allocated for SFO21-53 (CreateSubnet by 10.0.150.6 on 2017/03/12 05:40:45)
+11.12.0.0/15
+	LHR Cluster 		Allocated 	DSN Site Subnet allocated for LHR53-53 (CreateSubnet by 10.0.150.6 on 2017/03/22 02:30:18)
+11.14.0.0/15
+	LHR Cluster 		Allocated 	DSN Site Subnet allocated for LHR54-54 (CreateSubnet by 10.0.150.6 on 2017/03/22 02:30:19)
+11.16.0.0/15
+	LHR Cluster 		Allocated 	DSN Site Subnet allocated for LHR55-55 (CreateSubnet by 10.0.150.6 on 2017/03/22 02:30:21)
+11.18.0.0/15
+	NRT Cluster 		Allocated 	DSN Site Subnet allocated for NRT8-11 (CreateSubnet by 10.0.150.6 on 2017/03/27 20:53:21)
+11.20.0.0/15
+	NRT Cluster 		Allocated 	DSN Site Subnet allocated for NRT8-20 (CreateSubnet by 10.0.150.6 on 2017/03/27 20:53:23)
+11.22.0.0/15
+	NRT Cluster 		Allocated 	DSN Site Subnet allocated for NRT12-12 (CreateSubnet by 10.0.150.6 on 2017/03/27 20:53:24)
+11.24.0.0/15
+	NRT Cluster 		Allocated 	DSN Site Subnet allocated for NRT7-7 (CreateSubnet by 10.0.150.6 on 2017/03/27 20:53:25)
+11.26.0.0/15
+	ICN Cluster 		Allocated 	DSN Site Subnet allocated for ICN52-52 (CreateSubnet by 10.0.150.6 on 2017/05/04 13:48:09)
+11.28.0.0/15
+	ICN Cluster 		Allocated 	DSN Site Subnet allocated for ICN53-53 (CreateSubnet by 10.0.150.6 on 2017/05/04 13:48:10)
+11.30.0.0/15
+	ICN Cluster 		Allocated 	DSN Site Subnet allocated for ICN54-54 (CreateSubnet by 10.0.150.6 on 2017/05/04 13:48:11)
+11.32.0.0/15
+	BOM Cluster 		Allocated 	DSN Site Subnet allocated for BOM52-52 (CreateSubnet by 10.0.150.6 on 2017/07/10 15:31:12)
+11.34.0.0/15
+	BOM Cluster 		Allocated 	DSN Site Subnet allocated for BOM53-53 (CreateSubnet by 10.0.150.6 on 2017/07/10 15:31:13)
+11.36.0.0/15
+	BOM Cluster 		Allocated 	DSN Site Subnet allocated for BOM54-54 (CreateSubnet by 10.0.150.6 on 2017/07/10 15:31:15)
+11.38.0.0/15
+	YUL Cluster 		Allocated 	DSN Site Subnet allocated for YUL50-50 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:14:14)
+11.40.0.0/15
+	YUL Cluster 		Allocated 	DSN Site Subnet allocated for YUL51-51 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:14:15)
+11.42.0.0/15
+	YUL Cluster 		Allocated 	DSN Site Subnet allocated for YUL52-52 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:14:17)
+11.44.0.0/15
+	GRU Cluster 		Allocated 	DSN Site Subnet allocated for GRU4-4 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:21:40)
+11.46.0.0/15
+	GRU Cluster 		Allocated 	DSN Site Subnet allocated for GRU1-1 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:21:41)
+11.48.0.0/15
+	GRU Cluster 		Allocated 	DSN Site Subnet allocated for GRU2-2 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:21:42)
+11.50.0.0/15
+	GRU Cluster 		Allocated 	DSN Site Subnet allocated for GRU3-3 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:21:44)
+11.52.0.0/15
+	FRA Cluster 		Allocated 	DSN Site Subnet allocated for FRA54-54 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:29:22)
+11.54.0.0/15
+	FRA Cluster 		Allocated 	DSN Site Subnet allocated for FRA53-53 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:29:23)
+11.56.0.0/15
+	FRA Cluster 		Allocated 	DSN Site Subnet allocated for FRA52-52 (CreateSubnet by 10.0.150.6 on 2017/07/10 16:29:25)
+11.58.0.0/15
+	SYD Cluster 		Allocated 	DSN Site Subnet allocated for SYD52-52 (CreateSubnet by 10.0.150.6 on 2017/07/10 20:07:29)
+11.60.0.0/15
+	SYD Cluster 		Allocated 	DSN Site Subnet allocated for SYD5-5 (CreateSubnet by 10.0.150.6 on 2017/07/10 20:07:30)
+11.62.0.0/15
+	SYD Cluster 		Allocated 	DSN Site Subnet allocated for SYD5-51 (CreateSubnet by 10.0.150.6 on 2017/07/10 20:07:31)
+11.64.0.0/15
+	SYD Cluster 		Allocated 	DSN Site Subnet allocated for SYD6-6 (CreateSubnet by 10.0.150.6 on 2017/07/10 20:07:33)
+11.66.0.0/15
+	SYD Cluster 		Allocated 	DSN Site Subnet allocated for SYD6-61 (CreateSubnet by 10.0.150.6 on 2017/07/10 20:07:34)
+11.68.0.0/15
+	SYD Cluster 		Allocated 	DSN Site Subnet allocated for SYD7-7 (CreateSubnet by 10.0.150.6 on 2017/07/10 20:07:36)
+11.70.0.0/15
+	FRA Cluster 		Allocated 	DSN Site Subnet allocated for FRA54-60 (CreateSubnet by 10.0.150.6 on 2017/07/20 21:12:51)
+11.72.0.0/15
+	FRA Cluster 		Allocated 	DSN Site Subnet allocated for FRA52-56 (CreateSubnet by 10.0.150.6 on 2017/07/20 21:12:53)
+11.74.0.0/15
+	NRT55 		Allocated 	DSN Site Subnet allocated for NRT55-55 (CreateSubnet by 72.21.198.68 on 2017/12/06 22:48:40)
+11.76.0.0/15
+	SIN58 		Allocated 	DSN Site Subnet allocated for SIN4-58 (CreateSubnet by 72.21.198.68 on 2018/01/11 17:39:58)
+11.78.0.0/15
+	SIN4 		Allocated 	DSN Site Subnet allocated for SIN4-4 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/01/11 17:40:00)
+11.80.0.0/15
+	sin50 		Allocated 	DSN Site Subnet allocated for SIN50-50 (CreateSubnet by 72.21.198.68 on 2018/01/11 17:40:01)
+11.82.0.0/15
+	SIN53 		Allocated 	DSN Site Subnet allocated for SIN2-53 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/01/11 17:40:03)
+11.84.0.0/15
+	SIN2 		Allocated 	DSN Site Subnet allocated for SIN2-2 (CreateSubnet by 72.21.198.68 on 2018/01/11 17:40:04)
+11.86.0.0/15
+	SIN51 		Allocated 	DSN Site Subnet allocated for SIN3-51 (CreateSubnet by 72.21.198.68 on 2018/01/11 17:40:06)
+11.88.0.0/15
+	SIN54 		Allocated 	DSN Site Subnet allocated for SIN3-54 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/01/11 17:40:08)
+11.90.0.0/15
+	SIN3 		Allocated 	DSN Site Subnet allocated for SIN3-3 (CreateSubnet by 72.21.198.68 on 2018/01/11 17:40:09)
+11.92.0.0/15
+	iad78 		Allocated 	DSN Site Subnet allocated for IAD6-78 (CreateSubnet by 72.21.198.64 on 2018/01/30 18:59:11)
+11.94.0.0/15
+	IAD6 		Allocated 	DSN Site Subnet allocated for IAD6-6 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/01/30 18:59:13)
+11.96.0.0/15
+	IAD62 		Allocated 	DSN Site Subnet allocated for IAD62-62 (CreateSubnet by 72.21.198.67 on 2018/01/31 01:52:34)
+11.98.0.0/15
+	IAD12 		Allocated 	DSN Site Subnet allocated for IAD12-12 (DeleteSubnet by kalabyni on 2018/02/02 17:43:35)
+11.100.0.0/15
+	iad76 		Allocated 	DSN Site Subnet allocated for IAD12-76 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/02 22:47:37)
+11.102.0.0/15
+	GRU50 		Allocated 	DSN Site Subnet allocated for GRU1-50 (DeleteSubnet by kalabyni on 2018/01/31 23:13:50)
+11.104.0.0/15
+	IAD61 		Allocated 	DSN Site Subnet allocated for IAD1-61 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/02 23:53:24)
+11.106.0.0/15
+	IAD7 		Allocated 	DSN Site Subnet allocated for IAD7-7 (CreateSubnet by 72.21.198.67 on 2018/02/02 23:53:26)
+11.108.0.0/15
+	iad73 		Allocated 	DSN Site Subnet allocated for IAD7-73 (UpdateSubnet by bensteve on 2018/03/28 02:22:15)
+11.110.0.0/15
+	MXP60 		Allocated 	DSN Site Subnet allocated for MXP60-60
+11.112.0.0/15
+	MXP61 		Allocated 	DSN Site Subnet allocated for MXP61-61
+11.114.0.0/15
+	SFO20 		Allocated 	DSN Site Subnet allocated for SFO6-20
+11.116.1.0/31
+	SFO21 		Allocated 	SFO6-21DSN-ATS DSN Secure Access allocation
+11.116.1.2/31
+	SFO21 		Allocated 	SFO6-21DSN-ATS DSN Secure Access allocation
+11.118.0.0/15
+	NRT67 		Allocated 	DSN Site Subnet allocated for NRT12-67
+11.120.0.0/15
+	BAH52 		Allocated 	DSN Site Subnet allocated for BAH52-52
+11.122.0.0/15
+	BAH53 		Allocated 	DSN Site Subnet allocated for BAH53-53
+11.124.0.0/15
+	BAH54 		Allocated 	DSN Site Subnet allocated for BAH54-54
+11.126.0.0/15
+	pdx52 		Allocated 	DSN Site Subnet allocated for PDX4-52 (CreateSubnet by 72.21.198.66 on 2018/02/05 23:53:00)
+11.128.0.0/15
+	PDX55 		Allocated 	DSN Site Subnet allocated for PDX4-55 (CreateSubnet by 72.21.198.66 on 2018/02/05 23:53:02)
+11.130.0.0/15
+	PDX4 		Allocated 	DSN Site Subnet allocated for PDX4-4 (CreateSubnet by 72.21.198.66 on 2018/02/05 23:53:03)
+11.132.0.0/15
+	iad88 		Allocated 	DSN Site Subnet allocated for IAD12-88 (DeleteSubnet by kalabyni on 2018/02/07 19:58:50)
+11.134.0.0/15
+	iad74 		Allocated 	DSN Site Subnet allocated for IAD7-74 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/13 00:53:16)
+11.136.0.0/15
+	SYD70 		Allocated 	DSN Site Subnet allocated for SYD7-70 (CreateSubnet by 72.21.198.67 on 2018/02/14 00:02:15)
+11.138.0.0/15
+	ZHY50 		Allocated 	DSN Site Subnet allocated for ZHY50-50 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/16 03:43:02)
+11.140.0.0/15
+	IAD89 		Allocated 	DSN Site Subnet allocated for IAD12-89 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/15 02:52:54)
+11.142.0.0/15
+	IAD57 		Allocated 	DSN Site Subnet allocated for IAD12-57 (CreateSubnet by 72.21.198.67 on 2018/02/15 02:52:56)
+11.144.0.0/15
+	IAD51 		Allocated 	DSN Site Subnet allocated for IAD12-51 (CreateSubnet by 72.21.198.67 on 2018/02/15 02:52:57)
+11.146.0.0/15
+	IAD16 		Allocated 	DSN Site Subnet allocated for IAD12-16 (CreateSubnet by 72.21.198.67 on 2018/02/15 02:52:59)
+11.148.0.0/15
+	IAD15 		Allocated 	DSN Site Subnet allocated for IAD12-15 (CreateSubnet by 72.21.198.67 on 2018/02/15 02:53:01)
+11.150.0.0/15
+	iad58 		Allocated 	DSN Site Subnet allocated for IAD12-58 (CreateSubnet by 72.21.198.67 on 2018/02/15 02:53:02)
+11.152.0.0/24
+	CMH50 		Allocated 	CMH50-50 DSN-ATS Vlan 0 for cmh50-50-co-agg-r1<->cmh50-50-co-agg-r2 (CreateSubnet by 72.21.198.66 on 2018/02/15 03:28:58)
+11.152.1.0/24
+	CMH50 		Allocated 	CMH50-50 DSN-ATS PTP allocations for devices connected to cmh50-50-co-agg-r1andcmh50-50-co-agg-r2 (CreateSubnet by 72.21.198.66 on 2018/02/15 03:28:59)
+11.154.0.0/15
+	CMH50 		Allocated 	DSN Site Subnet allocated for CMH50-50 (CreateSubnet by 72.21.198.66 on 2018/02/15 05:12:18)
+11.156.0.0/15
+	CMH51 		Allocated 	DSN Site Subnet allocated for CMH51-51 (CreateSubnet by 72.21.198.66 on 2018/02/15 05:14:14)
+11.158.0.0/15
+	CMH52 		Allocated 	DSN Site Subnet allocated for CMH52-52 (CreateSubnet by 72.21.198.66 on 2018/02/15 05:15:20)
+11.160.0.0/15
+	ZHY51 		Allocated 	DSN Site Subnet allocated for ZHY51-51 (DeleteSubnet by sssadash on 2018/02/16 01:49:42)
+11.162.0.0/15
+	ZHY52 		Allocated 	DSN Site Subnet allocated for ZHY52-52 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/16 04:12:45)
+11.164.0.0/15
+	IAD98 		Allocated 	DSN Site Subnet allocated for IAD6-98
+11.166.0.0/15
+	BJS50 		Allocated 	DSN Site Subnet allocated for BJS11-50 (DeleteSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/28 06:28:23)
+11.168.0.0/15
+	BJS11 		Allocated 	DSN Site Subnet allocated for BJS11-11 (DeleteSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/28 06:28:34)
+11.170.0.0/15
+	BJS10 		Allocated 	DSN Site Subnet allocated for BJS10-10 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/01 00:55:17)
+11.172.0.0/15
+	PEK7 		Allocated 	DSN Site Subnet allocated for PEK4-7 (DeleteSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/28 06:30:16)
+11.174.0.0/15
+	PEK50 		Allocated 	DSN Site Subnet allocated for PEK50-50 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/28 03:22:46)
+11.176.0.0/15
+	BJS60 		Allocated 	DSN Site Subnet allocated for BJS12-60 (DeleteSubnet by moemad on 2018/02/27 05:59:22)
+11.178.0.0/15
+	BJS12 		Allocated 	DSN Site Subnet allocated for BJS12-12 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/28 03:28:27)
+11.180.0.0/15
+	BJS70 		Allocated 	DSN Site Subnet allocated for BJS20-70 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/01 01:00:17)
+11.182.0.0/15
+	BJS20 		Allocated 	DSN Site Subnet allocated for BJS20-20 (DeleteSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/02/28 06:39:37)
+11.184.0.0/15
+	PDX56 		Allocated 	DSN Site Subnet allocated for PDX1-56 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 00:47:23)
+11.186.0.0/15
+	PDX1 		Allocated 	DSN Site Subnet allocated for PDX1-1 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 00:47:24)
+11.188.0.0/15
+	PDX53 		Allocated 	DSN Site Subnet allocated for PDX1-53 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 00:47:26)
+11.190.0.0/15
+	PDX50 		Allocated 	DSN Site Subnet allocated for PDX1-50 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 00:47:27)
+11.192.0.0/15
+	KIX51 		Allocated 	DSN Site Subnet allocated for KIX51-51 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 02:47:35)
+11.194.0.0/15
+	IAD95 		Allocated 	DSN Site Subnet allocated for IAD7-95
+11.196.0.0/15
+	IAD92 		Allocated 	DSN Site Subnet allocated for IAD12-92
+11.198.0.0/15
+	IAD91 		Allocated 	DSN Site Subnet allocated for IAD12-91
+11.200.0.0/15
+	CMH54 		Allocated 	DSN Site Subnet allocated for CMH51-54
+11.202.0.0/15
+	PDX57 		Allocated 	DSN Site Subnet allocated for PDX2-57 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 22:26:40)
+11.204.0.0/15
+	PDX2 		Allocated 	DSN Site Subnet allocated for PDX2-2 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 22:26:42)
+11.206.0.0/15
+	pdx54 		Allocated 	DSN Site Subnet allocated for PDX2-54 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 22:26:43)
+11.208.0.0/15
+	PDX51 		Allocated 	DSN Site Subnet allocated for PDX2-51 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/07 22:26:45)
+11.210.0.0/15
+	ICN56 		Allocated 	DSN Site Subnet allocated for ICN52-56 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/03/09 04:13:29)
+11.212.0.0/15
+	IAD54 		Allocated 	DSN Site Subnet allocated for IAD6-54 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/10 03:09:01)
+11.214.0.0/15
+	CDG53 		Allocated 	DSN Site Subnet allocated for CDG53-53 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/10 03:40:17)
+11.216.0.0/15
+	CDG54 		Allocated 	DSN Site Subnet allocated for CDG54-54 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/10 05:15:41)
+11.218.0.0/15
+	CDG55 		Allocated 	DSN Site Subnet allocated for CDG55-55 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/10 06:01:16)
+11.220.0.0/15
+	IAD55 		Allocated 	DSN Site Subnet allocated for IAD55-55 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/10 06:12:48)
+11.222.0.0/15
+	IAD11 		Allocated 	DSN Site Subnet allocated for IAD7-11 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/11 05:53:41)
+11.224.0.0/15
+	IAD14 		Allocated 	DSN Site Subnet allocated for IAD7-14 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/04/12 03:24:38)
+11.226.0.0/15
+	PDX58 		Allocated 	DSN Site Subnet allocated for PDX4-58 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/05/09 22:25:46)
+11.228.0.0/15
+	PDX59 		Allocated 	DSN Site Subnet allocated for PDX1-59 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/05/10 00:23:00)
+11.230.0.0/15
+	IAD80 		Allocated 	DSN Site Subnet allocated for IAD6-80 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:40)
+11.232.0.0/15
+	IAD79 		Allocated 	DSN Site Subnet allocated for IAD6-79 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:42)
+11.234.0.0/15
+	IAD50 		Allocated 	DSN Site Subnet allocated for IAD6-50 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:43)
+11.236.0.0/15
+	iad60 		Allocated 	DSN Site Subnet allocated for IAD6-60 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:45)
+11.238.0.0/15
+	iad71 		Allocated 	DSN Site Subnet allocated for IAD6-71 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:47)
+11.240.0.0/15
+	IAD32 		Allocated 	DSN Site Subnet allocated for IAD6-32 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:48)
+11.242.0.0/15
+	iad10 		Allocated 	DSN Site Subnet allocated for IAD6-10 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:50)
+11.244.0.0/15
+	IAD13 		Allocated 	DSN Site Subnet allocated for IAD6-13 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/05 03:15:51)
+11.246.0.0/15
+	IAD59 		Allocated 	DSN Site Subnet allocated for IAD7-59 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/08 05:54:05)
+11.248.0.0/15
+	IAD75 		Allocated 	DSN Site Subnet allocated for IAD7-75 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/08 05:54:07)
+11.250.0.0/15
+	IAD77 		Allocated 	DSN Site Subnet allocated for IAD7-77 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/08 05:54:08)
+11.252.0.0/15
+	IAD52 		Allocated 	DSN Site Subnet allocated for IAD7-52 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/08 05:54:10)
+11.254.0.0/15
+	IAD63 		Allocated 	DSN Site Subnet allocated for IAD1-63 (CreateSubnet by arn:aws:iam::223013417269:user/netengdmcbot on 2018/06/12 05:00:20)
