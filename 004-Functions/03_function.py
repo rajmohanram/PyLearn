@@ -20,7 +20,6 @@ from pprint import pprint
 #           - courses - list
 #           - info - dictionary
 #
-#   aa
 
 
 
