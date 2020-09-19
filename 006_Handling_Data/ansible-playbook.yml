@@ -1,0 +1,20 @@
+---
+- name: Play-1 All P Routers
+  hosts: p_routers
+  gather_facts: no
+  tasks:
+    - name: Task-1
+      debug:
+        msg:
+          - This is a message-1
+          - This is a message-2
+
+    - name: Task-2
+      debug:
+        msg:
+          - This is a message-1
+          - This is a message-2
+          -
+- name: Play-2 All PE Routers
+  hosts: pe_routers
+  gather_facts: no

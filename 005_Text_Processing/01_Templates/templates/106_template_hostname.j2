@@ -1,0 +1,8 @@
+!
+hostname {{ config.hostname }}
+!
+ip domain lookup
+ip domain-name {{ config.domain.name }}
+{% for server in config.domain.servers -%}
+ip name-server {{ server }}
+{% endfor -%}

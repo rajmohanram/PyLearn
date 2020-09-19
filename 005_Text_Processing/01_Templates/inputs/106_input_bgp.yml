@@ -1,0 +1,7 @@
+---
+bgp:
+  'localas': '200'
+  'rid': '10.10.10.10'
+  'nei': '192.168.1.2'
+  'remoteas': '300'
+  'updatesrc': 'Loopback0'

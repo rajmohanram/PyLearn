@@ -1,0 +1,8 @@
+---
+hostname: router-01
+domain:
+  name: cisco.com
+  servers:
+    - 8.8.8.8
+    - 8.8.4.4
+

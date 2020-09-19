@@ -1,0 +1,6 @@
+#Configuration generated from jinja2 template
+{% include "106_template_hostname.j2" %}
+{% include "106_template_interface.j2" %}
+{% if 'bgp' in config %}
+    {% include "106_template_bgp.j2" %}
+{% endif %}

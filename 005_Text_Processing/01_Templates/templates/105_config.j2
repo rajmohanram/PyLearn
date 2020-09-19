@@ -1,0 +1,29 @@
+#Configuration generated from jinja2 template
+!
+hostname {{ config.hostname }}
+!
+ip domain lookup
+ip domain-name {{ config.domain.name }}
+{% for server in config.domain.servers -%}
+ip name-server {{ server }}
+{% endfor -%}
+!
+{% for key, value in config.vlans.items() -%}
+vlan {{ key }}
+ name {{ value }}
+!
+{% endfor -%}
+interface {{ config.interface.ifname }}
+ description {{ config.interface.desc }}
+ ip address {{ config.interface.ipaddr }} {{ config.interface.mask }}
+ {% if config.interface.ospf.configured == 'yes' -%}
+ ip ospf {{ config.interface.ospf.pid}} area {{ config.interface.ospf.areaid }}
+ ip ospf network {{ config.interface.ospf.network }}
+ {% endif -%}
+!
+router bgp {{ config.bgp.localas }}
+ bgp router-id {{ config.bgp.rid }}
+ neighbor {{ config.bgp.nei }} remote-as {{ config.bgp.remoteas }}
+ neighbor {{ config.bgp.nei }} update-source {{ config.bgp.updatesrc }}
+!
+
