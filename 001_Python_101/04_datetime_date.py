@@ -29,3 +29,10 @@ time_diff = timedelta(days=N, hours=0, minutes=0)
 
 date_N_days_after = curr_datetime + time_diff
 print("Date", N, "days after is", date_N_days_after.strftime("%d-%B-%Y"))
+
+
+# find weeks delta
+my_date = datetime.now()
+delta_weeks = 1
+new_date = my_date + timedelta(weeks=delta_weeks)
+print(new_date)
