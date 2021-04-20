@@ -1,0 +1,32 @@
+Working on use case: np
+Working on parent: nrt55-55
+Getting devices from NSM...
+Found 4 devices:
+nrt55-55-np-cor-r1 model:midplane status:UP
+nrt55-55-np-cor-r101 model:qfx5100-96s-8q status:UP
+nrt55-55-np-cor-r102 model:qfx5100-96s-8q status:UP
+nrt55-55-np-cor-r2 model:midplane status:UP
+Pair found nrt55-55-np-cor-r1 - nrt55-55-np-cor-r2
+Pair found nrt55-55-np-cor-r101 - nrt55-55-np-cor-r102
+Checking pair nrt55-55-np-cor-r1 - nrt55-55-np-cor-r2
+Getting physical available ports for nrt55-55-np-cor-r1
+nrt55-55-np-cor-r1 model MIDPLANE is not supported
+nrt55-55-np-cor-r1 does not have any ports to use
+[]
+Getting ae available ports for nrt55-55-np-cor-r1
+Getting physical available ports for nrt55-55-np-cor-r2
+nrt55-55-np-cor-r2 model MIDPLANE is not supported
+nrt55-55-np-cor-r2 does not have any ports to use
+[]
+Getting ae available ports for nrt55-55-np-cor-r2
+Taking this pair.
+Checking pair nrt55-55-np-cor-r101 - nrt55-55-np-cor-r102
+Getting physical available ports for nrt55-55-np-cor-r101
+['xe-0/0/52', 'xe-0/0/53', 'xe-0/0/54', 'xe-0/0/55', 'xe-0/0/56', 'xe-0/0/57', 'xe-0/0/58', 'xe-0/0/59', 'xe-0/0/60', 'xe-0/0/61', 'xe-0/0/62', 'xe-0/0/63', 'xe-0/0/64', 'xe-0/0/65', 'xe-0/0/66', 'xe-0/0/67', 'xe-0/0/68', 'xe-0/0/69', 'xe-0/0/70', 'xe-0/0/71']
+Getting ae available ports for nrt55-55-np-cor-r101
+Getting physical available ports for nrt55-55-np-cor-r102
+['xe-0/0/52', 'xe-0/0/53', 'xe-0/0/54', 'xe-0/0/55', 'xe-0/0/56', 'xe-0/0/57', 'xe-0/0/58', 'xe-0/0/59', 'xe-0/0/60', 'xe-0/0/61', 'xe-0/0/62', 'xe-0/0/63', 'xe-0/0/64', 'xe-0/0/65', 'xe-0/0/66', 'xe-0/0/67', 'xe-0/0/68', 'xe-0/0/69', 'xe-0/0/70', 'xe-0/0/71']
+Getting ae available ports for nrt55-55-np-cor-r102
+Taking this pair.
+Aggregate port to reserve:  {'nrt55-55': {'nrt55-55-np-cor-r101': ['ae12'], 'nrt55-55-np-cor-r102': ['ae12']}}
+Physical ports to reserve: {'nrt55-55': {'nrt55-55-np-cor-r101': ['xe-0/0/52', 'xe-0/0/53'], 'nrt55-55-np-cor-r102': ['xe-0/0/52', 'xe-0/0/53']}}

@@ -1,4 +1,4 @@
-#
+
 from pathlib import Path
 
 # __file__ : special variable to represent this file on which we are working
@@ -21,3 +21,8 @@ print("Grandparent folder of this Python file:", grandparent_of_this_file)
 # Use case:
 #   If we need to read from / write to a file in a specific location,
 #       we can use the relative path found by these methods
+
+
+# file relative path to another file
+base_path = parent_of_this_file = Path(__file__).parent
+print(base_path.joinpath('temp', 'testfile.j2'))
